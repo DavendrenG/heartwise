@@ -29,7 +29,7 @@ environment:
 # versions available, run `flutter pub outdated`.
 flutter_native_splash:
   color: "#ffffff"
-  image: assets/logo1.png
+  image: assets/logo.png
   branding: assets/branding1.png
   android: true
   ios: true
@@ -46,9 +46,11 @@ dependencies:
   provider: ^6.0.5
   intl: ^0.17.0
   path_provider: ^2.0.14
-  fl_chart: ^0.55.2
+  #fl_chart: ^0.55.2
   flutter_local_notifications: ^19.2.0
   timezone: ^0.10.0
+  fl_chart: ^0.65.0
+  flutter_animate: ^4.0.0
 
 
 
