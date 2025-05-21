@@ -13,6 +13,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('HeartWise'),
+        backgroundColor: Colors.blue,
         actions: [
           IconButton(
             icon: Icon(Icons.health_and_safety),

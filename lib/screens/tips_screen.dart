@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 
 class TipsScreen extends StatelessWidget {
   final List<String> tips = [
-    'Maintain a low-sodium diet.',
+    'Reduce your salt intake',
+    'Have just one cup coffee every 3 days',
+    //'Maintain a low-sodium diet.',
     'Exercise regularly.',
     'Monitor your blood pressure consistently.',
     'Reduce stress through meditation or relaxation techniques.',
