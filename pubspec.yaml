@@ -51,6 +51,9 @@ dependencies:
   timezone: ^0.10.0
   fl_chart: ^0.65.0
   flutter_animate: ^4.0.0
+  http: ^1.2.1
+  pdf: ^3.8.1
+  printing: ^5.9.0
 
 
 
@@ -87,6 +90,7 @@ flutter:
     - assets/logo.png
     - assets/logo1.png
     - assets/branding1.png
+    - shorebird.yaml
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

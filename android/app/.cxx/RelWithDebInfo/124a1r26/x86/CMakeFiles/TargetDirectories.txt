@@ -1,0 +1,2 @@
+/Users/davendrengovender/StudioProjects/heartwise/android/app/.cxx/RelWithDebInfo/124a1r26/x86/CMakeFiles/edit_cache.dir
+/Users/davendrengovender/StudioProjects/heartwise/android/app/.cxx/RelWithDebInfo/124a1r26/x86/CMakeFiles/rebuild_cache.dir
